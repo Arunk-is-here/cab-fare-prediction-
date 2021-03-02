@@ -1,0 +1,43 @@
+################ INSTRUCTION ###############
+
+
+Python code is developed in Jupyter Notebook, so you can use 
+Jupyter notebook to run the code. Please use python 3.6 or above version.
+Below are the requirements for python code.
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+fancyimpute
+geopy
+patsy
+sklearn
+xgboost
+joblib
+
+I have done the entire project in R Studio, so R code can be easily 
+run in R Studio. I used latest version of R.
+Below are the requirements for R code.
+
+ggplot2
+corrgram 
+DMwR
+usdm 
+caret
+randomForest
+e1071
+DataCombine
+doSNOW
+inTrees
+rpart.plot
+rpart
+MASS
+xgboost
+stats
+
+Before run the code make sure you have install all the requierd library
+
+When the installetion complete just pass the data set path into the code. after that code will work fine in both R and python.
+
+###############   THANK YOU #################
